@@ -4,12 +4,10 @@
 
 ## 环境要求
 
-- macOS **14.6** 或更高版本（与 Cask 中 `depends_on macos` 一致）
+- 应用要求 macOS **14.6** 或更高
 - 已安装 [Homebrew](https://brew.sh)
 
 ## 安装
-
-仓库名为 `homebrew-aiusage` 时，Tap 短名为 **`aiusage`**（去掉 `homebrew-` 前缀）。
 
 ```bash
 brew tap 13awan/aiusage
@@ -33,7 +31,3 @@ brew uninstall --cask ai-usage
 ```bash
 brew untap 13awan/aiusage
 ```
-
-## 相关链接
-
-- 应用主页：<https://github.com/13awan/homebrew-aiusage>
