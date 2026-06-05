@@ -1,6 +1,8 @@
 # homebrew-aiusage
 
-通过 [Homebrew](https://brew.sh) 分发 **AI Usage**（Cursor AI 使用相关 macOS 应用）的第三方 Tap。
+**AI Usage** 是一款 macOS 应用，用于实时查看 Cursor 订阅用量，包括 Auto、API、按需额度与计费周期，并支持桌面小组件。
+
+本仓库通过 [Homebrew](https://brew.sh) 分发该应用，作为第三方 Tap 提供安装、升级与卸载。
 
 ## 截图
 
