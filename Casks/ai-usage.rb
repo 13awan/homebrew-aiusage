@@ -1,6 +1,6 @@
 cask "ai-usage" do
-    version "1.2"
-    sha256 "aa3c1e71cd1d9e7434f9d2bc795f810bd1e002f16190d16841b5210b0a8bc41b"
+    version "1.3"
+    sha256 "1ec9dcd44f26c1d8623499add9ef84b6cac81f281d42d2a1efc3d328e050c1b1"
     url "https://github.com/13awan/homebrew-aiusage/raw/main/releases/download/v#{version}/AI.Usage.zip"
     name "AI Usage"
     desc "Cursor AI Usage"
